@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qqeOSAS
+Hi, I’m @qqeOSAS
 - 👀 I’m interested in Embeded engenering, software engenering
 - 🌱 I’m currently learning embeded systems
 - 💞️ I’m looking to collaborate on embedded systems projects and open-source software development.
